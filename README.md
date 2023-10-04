@@ -1,7 +1,7 @@
 <div align="center">
 
-# Hello, I'm [Your Name] 👋
-## A Geeky Computer Science Enthusiast
+# Hello, I'm Priyanka 👋
+## Passionate about Code, Curious about Tech
 
 </div>
 
@@ -23,25 +23,37 @@
   <img src="https://komarev.com/ghpvc/?username=priyanka8625&style=flat-round&color=red" alt="ProfileViews"/>
 </div>
 
-### Hi there 👋
-
 
 ## 👨‍💻 About Me :
 
-Hey there 👋 I'm Priyanka! A Geeky Computer Science enthusiast Persuing BTech. Fuelled by a passion for innovation, I'm a Software developer adept in Java, C++, and Python. Driven to elevate my technical and problem-solving skills, Learning Something New everyday ✨
+Hey there 👋 Welcome to my Github Profile! I'm a Geeky Computer Science enthusiast majoring in BTech. Fuelled by a passion for innovation with a deep love for Web and Software development. I'm driven to elevate my technical and problem-solving skills + Learning Something New everyday ✨
 
+## 💻 Tech Enthusiast
 
-<!--
-**priyanka8625/priyanka8625** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💡 Java, C++, and Python are my weapons of choice for software development.
+- 🕸 Skilled in web technologies NodeJs, ExpressJs, Tailwind CSS
+- ⚙️ Enjoy working on backend logic to bring projects to life
+- 🚀 Sharpening my DSA skills
+- 🔧 Constantly improving technical skills.
 
-Here are some ideas to get you started:
+## 🛠️ Tools & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Frontend: Tailwind CSS, JavaScript, HTML, CSS 
+- Backend: Java, Python, Express JS, Node JS, C++
+- Version Control: Git
+- IDEs: VS Code, IntelliJ IDEA Ultimate, PyCharm Professional, Eclipse IDE
+  
+## 🌟 Open Source Contributor
+
+I'm an advocate for open source software and love contributing to projects that make a difference. You can often find me collaborating with like-minded developers to improve the tools we all rely on.
+
+## 📫 Let's Connect
+
+- 🌐 Explore the ever-evolving world of technology with me.
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/priyanka-sundalam) or [GitHub](https://github.com/priyanka8625).
+  
+### :fire: My Stats :
+[![GitHub Streak](https://streak-stats.demolab.com?user=priyanka8625&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&card_width=500)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanka8625&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
