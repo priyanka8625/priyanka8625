@@ -1,3 +1,10 @@
+<div align="center">
+
+# Hello, I'm [Your Name] 👋
+## A Geeky Computer Science Enthusiast
+
+</div>
+
 <div id="header" align="center">
   <div id="badges">
     <a href="https://www.linkedin.com/in/priyanka-sundalam">
