@@ -52,8 +52,24 @@ I'm an advocate for open source software and love contributing to projects that 
 - 🌐 Explore the ever-evolving world of technology with me.
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/priyanka-sundalam) or [GitHub](https://github.com/priyanka8625).
   
-### :fire: My Stats :
+## :fire: My Stats :
+
+#### 🚀 My GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=priyanka8625&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&card_width=500)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanka8625&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### 📊 LeetCode Stats
+
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <div>
+        <h4>Total Solved Problems</h4>
+        <a href="https://leetcode.com/priyanka8625/">
+            <img src="https://leetcode-stats-six.vercel.app/api?username=priyanka8625&hide=total-submissions&ac_lang=Python" alt="LeetCode solved" />
+        </a>
+    </div>
+</div>
+
 
