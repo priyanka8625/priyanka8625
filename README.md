@@ -60,7 +60,7 @@ I'm an advocate for open source software and love contributing to projects that 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanka8625&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### 📊 LeetCode Stats
+#### 📊 LeetCode Stats
 
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
