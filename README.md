@@ -42,10 +42,6 @@ Hey there 👋 Welcome to my Github Profile! I'm a Geeky Computer Science enthus
 - Backend: Java, Python, Express JS, Node JS, C++
 - Version Control: Git
 - IDEs: VS Code, IntelliJ IDEA Ultimate, PyCharm Professional, Eclipse IDE
-  
-## 🌟 Open Source Contributor
-
-I'm an advocate for open source software and love contributing to projects that make a difference. You can often find me collaborating with like-minded developers to improve the tools we all rely on.
 
 ## 📫 Let's Connect
 
