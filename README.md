@@ -33,8 +33,8 @@ Hey there 👋 Welcome to my Github Profile! I'm a Geeky Computer Science enthus
 - 💡 Java, C++, and Python are my weapons of choice for software development.
 - 🕸 Skilled in web technologies React.js, NodeJs, ExpressJs and Databases: MongoDb & SQL
 - ⚙️ Enjoy working on backend logic to bring projects to life
-- 🚀 Sharpening my DSA skills
-- 🔧 Constantly improving technical skills.
+- 🚀 Sharpening my Data Structures and Algorithmic skills
+- 🔧 Dedicated to improve technical skills.
 
 ## 🛠️ Tools & Technologies
 
