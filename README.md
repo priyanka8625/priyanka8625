@@ -47,10 +47,12 @@
 ---
 
 ### 📊 GitHub Stats
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=priyanka8625&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&card_width=500" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanka8625&show_icons=true&theme=radical" height="160" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanka8625&show_icons=true&theme=radical" height="160"/>
-</p>
 
 
 ---
