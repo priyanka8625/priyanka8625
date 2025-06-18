@@ -1,71 +1,67 @@
-<div align="center">
+<h1 align="center">Hey there, I'm Priyanka 👋</h1>
+<h3 align="center">Full Stack Developer • AI Explorer • Curious builder</h3>
 
-# Hello, I'm Priyanka 👋
-## Passionate about Code, Curious about Tech
+  <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+..🚀;Exploring+AI+%2B+Web+%3D+Fun!;Let%E2%80%99s+build+something+cool+together."/>
+</p>
 
-</div>
+---
 
-<div id="header" align="center">
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/priyanka-sundalam">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://www.hackerrank.com/Priyanka8625">
-      <img src="https://img.shields.io/badge/Hackerrank-darkgreen?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge"/>
-    </a>
-    <a href="https://auth.geeksforgeeks.org/user/priyanka8625/">
-      <img src="https://img.shields.io/badge/GeeksforGeeks-green?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" alt="GeeksforGeeks Badge"/>
-    </a>
-    <a href="https://leetcode.com/priyanka8625/">
-      <img src="https://img.shields.io/badge/Leetcode-yellow?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
-    </a>
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=priyanka8625&style=flat-round&color=red" alt="ProfileViews"/>
-</div>
+### 🧠 About Me
 
+- 💻 I'm a **MERN stack developer** who also loves dabbling in Spring Boot, machine learning, and GenAI tools.
+- 🛠️ Worked on everything from **clinic management systems** to **e-voting platforms**, and even **bot detectors**.
+- 🏆 Hackathon fan! I’ve won **Code-a-Thon 2K24**, **TechWiz**, and more — I enjoy turning ideas into actual working tools.
+- 🤝 Currently open to **collaborations**, **internships**, or just good dev convos.
+- 💡 Learn fast, build faster, and always keep it real.
 
-## 👨‍💻 About Me :
+---
 
-Hey there 👋 Welcome to my Github Profile! I'm a Geeky Computer Science enthusiast majoring in BTech. Fuelled by a passion for innovation with a deep love for Web and Software development. I'm driven to elevate my technical and problem-solving skills + Learning Something New everyday ✨
+### ⚒️ Tech Stack
 
-## 💻 Tech Enthusiast
+**Languages:** JavaScript, Java, Python, C++, SQL  
+**Frontend:** React.js, Tailwind CSS, Bootstrap  
+**Backend:** Node.js, Express.js, Spring Boot  
+**Databases:** MongoDB, MySQL, Oracle  
+**Tools:** Git, Postman, VS Code, Firebase, Eclipse, Jupyter  
+**Other:** REST APIs, ML (Scikit-learn), MVC, OOP, LLD
 
-- 💡 Java, C++, and Python are my weapons of choice for software development.
-- 🕸 Skilled in web technologies React.js, NodeJs, ExpressJs and Databases: MongoDb & SQL
-- ⚙️ Enjoy working on backend logic to bring projects to life
-- 🚀 Sharpening my Data Structures and Algorithmic skills
-- 🔧 Dedicated to improve technical skills.
+---
 
-## 🛠️ Tools & Technologies
+### 🏅 Achievements
 
-- Frontend: Tailwind CSS, JavaScript, HTML, CSS 
-- Backend: Java, Python, Express JS, Node JS, C++
-- Version Control: Git
-- IDEs: VS Code, IntelliJ IDEA Ultimate, PyCharm Professional, Eclipse IDE
+- 🥇 **Winner** - Code-a-Thon 2K24 (300+ participants)  
+- 🥇 **1st Place** - TechWiz @ WITECH24  
+- 🥇 **Best Presentation** - MAPTECH 2K23 (National-level PPT contest)  
+- 🥈 **Runner-up Project** - Vikramaa Technologies 45-day Industrial Training  
+- 🥉 **3rd Prize** - CoolCode Competition @ WITCHAR 2K25 (100+ students)  
+- 🏁 **Top 30 Team** - AGTechathon 2K25 National Hackathon
 
-## 📫 Let's Connect
+---
 
-- 🌐 Explore the ever-evolving world of technology with me.
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/priyanka-sundalam) or [GitHub](https://github.com/priyanka8625).
-  
-## :fire: My Stats :
+### 🌱 Currently Exploring
+- Building with **LLMs** and GenAI APIs  
+- Scaling React apps with a clean modular structure  
+- Making side-projects user-ready, not just dev-ready 😉
 
-#### 🚀 My GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=priyanka8625&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&card_width=500)](https://git.io/streak-stats)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanka8625&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanka8625&show_icons=true&theme=radical" height="160"/>
+</p>
 
 
-#### 📊 LeetCode Stats
+---
 
+### 📬 Let's Connect
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <div>
-        <h4>Total Solved Problems</h4>
-        <a href="https://leetcode.com/priyanka8625/">
-            <img src="https://leetcode-stats-six.vercel.app/api?username=priyanka8625&hide=total-submissions&ac_lang=Python" alt="LeetCode solved" />
-        </a>
-    </div>
-</div>
+- 🌐 [LinkedIn](https://www.linkedin.com/in/priyanka-sundalam/)
+- 📩 Email: **priyankasundalam@gmail.com**
+- 🧠 [LeetCode](https://leetcode.com/u/priyanka8625/)
+- 💼 Portfolio coming soon!
 
+---
 
+> “Not perfect. Just better than yesterday. That’s the goal.” 🚀💜
