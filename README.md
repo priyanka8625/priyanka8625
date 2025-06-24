@@ -59,7 +59,7 @@
 
 ### 📬 Let's Connect
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/priyanka-sundalam/)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/priyankasundalam/)
 - 📩 Email: **priyankasundalam@gmail.com**
 - 🧠 [LeetCode](https://leetcode.com/u/priyanka8625/)
 - 💼 Portfolio coming soon!
